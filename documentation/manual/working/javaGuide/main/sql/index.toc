@@ -1,2 +1,0 @@
-JavaDatabase:Configuring and using JDBC
-JavaJPA:Using JPA to access your database
